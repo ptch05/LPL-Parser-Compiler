@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Output directory
+/out/
+
+
+# macOS
+.DS_Store
+out/
